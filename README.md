@@ -15,7 +15,7 @@ Alternatively, after downloading the repo, the index.html file can be opened in 
 
 ## Credits
 
-For this project, I used code from the Boostrap documentation in order to create elements like the navbar, jumbotron and cards. I also used social media buttons from https://mdbootstrap.com/docs/standard/extended/social-media/
+For this project, I used code from the Boostrap documentation in order to create elements like the navbar, jumbotron and cards. I also used social media buttons from https://mdbootstrap.com/docs/standard/extended/social-media/ in the footer section of the page.
 
 ## License
 
