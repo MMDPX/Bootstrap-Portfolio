@@ -1,0 +1,26 @@
+:root {
+    --grey: #d6d1d1;
+    --red: #F43309;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-size: cover;
+    padding: 20px;
+    color: var(--red);
+    background-image: url(./images/02-hero-bg.jpg);
+    font-weight: bolder;
+    text-align: center;
+  }
+
+
+.jumbotron img {
+    width: 150px;
+    height: 150px;
+}
+
+div h2 {
+    text-align: center;
+}
